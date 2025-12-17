@@ -1,0 +1,35 @@
+.stats-title,.shop-title {
+    font-weight: 900; 
+    font-size: 3rem; 
+    margin: 0 auto 3rem auto; 
+    padding-top: 2rem; 
+    text-align: center; 
+
+}
+.nav-link,.dropdown-item,.form-control,.btn,.card-title{
+      font-weight: 900; 
+    font-size: 1em; 
+}
+.bg-light-pink {
+  background-color: rgba(255, 182, 193, 0.129);
+}
+section{
+    background: #2f3136;
+}
+.yellow{
+    color: #fce51e;
+}
+.blue{
+    color: #53c4ff;
+}
+.purple{
+    color: #9c8cff;
+}
+.card {
+    transition: 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    z-index: 3;
+}
